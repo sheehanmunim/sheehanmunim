@@ -4,7 +4,7 @@
 
 - [\\] **[Four Echleon](https://fourechelon.com)** - AI Live 3D Spatial Mapping
 - L **[Lackin](https://lackin.app)** - Fun Pictures of Friends and Senior Assassin
-- 📡 **[munim-bluetooth](https://github.com/munimtechnologies/munim-bluetooth)** - React Native BLE Reciver and Peripheral
+- 📡 **[munim-bluetooth](https://github.com/munimtechnologies/munim-bluetooth)** - React Native BLE Receiver and Peripheral
 - 🛜 **[munim-wifi](https://github.com/munimtechnologies/munim-wifi)** - React Native WiFi
 - ✏️ **[munim-pencilkit](https://github.com/munimtechnologies/munim-pencilkit)** - React Native Pencilkit/UITouch
 
