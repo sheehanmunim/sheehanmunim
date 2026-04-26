@@ -2,7 +2,7 @@
 
 ## Current Projects
 
-- [\\] **[Four Echleon](https://fourechelon.com)** - AI Live 3D Spatial Mapping
+- [\\] **[Four Echleon](https://fourechelon.com)** - AI Large Spatial Models
 - L **[Lackin](https://lackin.app)** - Fun Pictures of Friends and Senior Assassin
 - 📡 **[munim-bluetooth](https://github.com/munimtechnologies/munim-bluetooth)** - React Native BLE Receiver and Peripheral
 - 🛜 **[munim-wifi](https://github.com/munimtechnologies/munim-wifi)** - React Native WiFi
