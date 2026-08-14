@@ -1,5 +1,7 @@
 # Sheehan Munim
 
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?style=flat-square&logo=github)](https://github.com/sponsors/sheehanmunim)
+
 ## Current Projects
 - ✈️ **[Horus](https://horusflight.com)** - Search and Rescue Drone
 - [\\] **[Four Echelon](https://fourechelon.com)** - AI Large Spatial Models
