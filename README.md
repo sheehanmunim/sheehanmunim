@@ -2,7 +2,7 @@
 
 
 ## Current Projects
-- MT **[MT Code]([https://github.com/munimtechnologies/munim-pencilkit](https://github.com/sheehanmunim/mtcode))** - T3 Code with More Features
+- MT **[MT Code](https://github.com/sheehanmunim/mtcode)** - T3 Code with More Features
 - ✈️ **[Horus](https://horusflight.com)** - Search and Rescue Drone
 - [\\] **[Four Echelon](https://fourechelon.com)** - AI Large Spatial Models
 - L **[Lackin](https://lackin.app)** - Fun Pictures of Friends and Senior Assassin
