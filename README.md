@@ -9,6 +9,7 @@
 - 📡 **[munim-bluetooth](https://github.com/munimtechnologies/munim-bluetooth)** - React Native BLE Receiver and Peripheral
 - 🎥 **[munim-ffmpeg](https://github.com/munimtechnologies/munim-ffmpeg)** - React Native FFmpeg
 - 🗺️ **[munim-maps](https://github.com/munimtechnologies/munim-maps)** - React Native Maps
+- 📍 **[munim-location](https://github.com/munimtechnologies/munim-location)** - React Native Location
 - 🛜 **[munim-wifi](https://github.com/munimtechnologies/munim-wifi)** - React Native WiFi
 - ✏️ **[munim-pencilkit](https://github.com/munimtechnologies/munim-pencilkit)** - React Native Pencilkit/UITouch
 
