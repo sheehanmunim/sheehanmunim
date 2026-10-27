@@ -2,6 +2,7 @@
 
 
 ## Current Projects
+- 🏃‍♂️ **[Manhunt](https://manhuntgames.com/)** - Senior Assassin and Hide & Seek Tag
 - MT **[MT Code](https://github.com/sheehanmunim/mtcode)** - T3 Code with More Features
 - ✈️ **[Horus](https://horusflight.com)** - Search and Rescue Drone
 - [\\] **[Four Echelon](https://fourechelon.com)** - AI Large Spatial Models
